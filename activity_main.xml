@@ -36,8 +36,7 @@
                         android:inputType="textNoSuggestions"
                         android:padding="16dp"
                         android:textAllCaps="true"
-                        android:textStyle="bold"
-                        android:textColor="#FFAA66CC"/>
+                        android:textStyle="bold"/>
 
                     <RelativeLayout
                         android:layout_width="match_parent"
